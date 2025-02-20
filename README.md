@@ -25,7 +25,12 @@
 <br>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavis02\&layout=compact)
-  
+
+<div align="center">
+  <img src ="https://steamuserimages-a.akamaihd.net/ugc/2072262150969243013/26C01734A45D238AE7AAFE49CE3771D2B42AA2A0/?    imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="mario">
+</div>
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lavis02/lavis02/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lavis02/lavis02/output/github-contribution-grid-snake-dark.svg">
