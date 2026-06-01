@@ -1,10 +1,10 @@
 ## Olá eu sou a Lavínia 👋
 
-- 🔭 Hoje eu sou estagiara na delagicia civil da minha cidade
+- 🔭 Hoje eu sou TDI
 - 💾 Estudante de Ciência da Computação na UNEMAT.
-- 🌱 Estudando atualmente HTML/CSS e JS.
+- 🌱 Estudando atualmente JAVA
 - 📫 contate-me no email: lavinia.21rocha@gmail.com
-- 😄 Quero me tornar uma futura programadora Front-end.
+- 😄 Quero me tornar uma futura programadora.
 <div> 
   <a href="https://instagram.com/lavis.san_1999" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lavinia.21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
